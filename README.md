@@ -1,2 +1,2 @@
 # Hello-world
-Tish just a repository
+This just a repository
